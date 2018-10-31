@@ -1,0 +1,11 @@
+resources-launcher (0.2) xenial; urgency=medium
+
+  * Fix depends in control file
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 04 Sep 2017 09:01:28 +0200
+
+resources-launcher (0.1) xenial; urgency=medium
+
+  * Initial release.
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 11 Aug 2017 14:21:32 +0200

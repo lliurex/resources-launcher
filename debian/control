@@ -1,0 +1,14 @@
+Source: resources-launcher
+Section: misc
+Priority: optional
+Maintainer: LliureX Team <lliurex@lliurex.net>
+Build-Depends: llxsrchelper,debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://svn.lliurex.net/xenial/resources-launcher
+
+Package: resources-launcher
+Architecture: all
+Depends: ${misc:Depends},flash-java-insecure-perms
+Description: resources-launcher
+ Launcher for the educational resources
+ 
