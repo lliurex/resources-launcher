@@ -1,3 +1,9 @@
+resources-launcher (0.12) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 31 Oct 2018 11:46:14 +0100
+
 resources-launcher (0.2) xenial; urgency=medium
 
   * Fix depends in control file
