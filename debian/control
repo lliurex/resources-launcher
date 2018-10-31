@@ -2,9 +2,8 @@ Source: resources-launcher
 Section: misc
 Priority: optional
 Maintainer: LliureX Team <lliurex@lliurex.net>
-Build-Depends: llxsrchelper,debhelper (>= 8.0.0)
-Standards-Version: 3.9.3
-Homepage: https://svn.lliurex.net/xenial/resources-launcher
+Build-Depends: llxsrchelper,debhelper (>= 10)
+Standards-Version: 4.1.2
 
 Package: resources-launcher
 Architecture: all
