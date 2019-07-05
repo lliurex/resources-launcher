@@ -1,3 +1,9 @@
+resources-launcher (0.13) bionic; urgency=medium
+
+  * Fix shebang
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 05 Jul 2019 12:38:03 +0200
+
 resources-launcher (0.12) bionic; urgency=medium
 
   * Initial release for bionic
