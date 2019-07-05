@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 #Shell that sets the insecure mode for flash and java before launching an educational resource
 
 help ()
